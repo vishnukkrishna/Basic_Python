@@ -260,5 +260,19 @@
 #     elif choice == 4:
 #         print("Result: ",n1.div())
 
+# ..........................................
+
+#  "==" vs "is"
+
+# aa = 'Vishnu'
+# bb = 'Vishnu'
 
 
+# print(aa == bb)  # The print(aa == bb) statement checks for equality between the contents of the variables aa and bb. 
+# print()
+# print(aa is bb)  # The print(aa is bb) statement checks for identity using the is keyword. It tests whether aa and bb refer to the same object in memory.
+
+# print(id(aa), id(bb))
+
+
+# ..........................................
