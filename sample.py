@@ -297,3 +297,28 @@
 # obj = MyClass(10)
 
 # obj.print_x()
+
+
+# __init__()
+# class MyClass:
+#     def __init__(self, x):
+#         self.x = x
+
+# # Create an instance of MyClass
+# obj = MyClass(10)
+
+
+# slice()
+# slice(start, stop[, step])
+
+# Create a list
+# my_list = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+
+# # Define a slice object
+# my_slice = slice(2, 7, 2)
+
+# # Apply the slice to the list
+# result = my_list[my_slice]
+
+# # Print the result
+# print(result)  # Output: [3, 5, 7]
