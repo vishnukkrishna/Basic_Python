@@ -276,3 +276,24 @@
 
 
 # ..........................................
+
+# Iterators and Iterables
+
+# nums = [1, 2, 3, 4, 5]
+
+# for num in nums:
+#     print(num)
+
+
+# self in examples
+# class MyClass:
+#     def __init__(self, x):
+#         self.x = x
+    
+#     def print_x(self):
+#         print(self.x)
+
+
+# obj = MyClass(10)
+
+# obj.print_x()
